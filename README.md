@@ -17,7 +17,7 @@ Participants register, form teams, or find collaborators.
 
 #### Days 2-8: Project Planning and Development
 3. Learning & Project Planning (Days 2-3)
-Teams leanrn freatures of Scribbler and work on project planning, defining goals, and creating project roadmaps.
+Teams lean features of Scribbler and work on project planning, defining goals, and creating project roadmaps.
 Online workshops or QnA sessions on Scribbler, JavaScript concepts, frameworks, or tools.
 4. Coding and Development (Days 4-8)
 Teams start coding and developing their projects.
@@ -54,3 +54,6 @@ Networking session: Participants, mentors, and judges engage in virtual networki
 - Creativity and skill to innovate
 - Go through [Scribbler](https://app.scribbler.live),[Docs](/docs.html), [toturials](/tutorials/), and the [gallery](samples.html).
 - Join the hackathon discord channel: [https://discord.com/invite/uxNSsWunwU](https://discord.com/invite/uxNSsWunwU)
+
+### Submissions
+Final submissions will be in the folder [notebooks](/notebooks) of this repository.
